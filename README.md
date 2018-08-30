@@ -1,4 +1,4 @@
- ## Contacts
+ ## Contacts with React.js
 
  - Used React to create and render Contact Cards
  - Converted manual element creation to JSX, used create-react-app to scaffold this project
