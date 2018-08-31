@@ -11,5 +11,5 @@ A React app that allows you to search, filter, delete and add new contact cards.
  
  ![screenshot](contacts.gif)
 
-This project was an exercise from Udacity Front-End Web Dev Nanodegree; bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was an exercise from the Udacity Front-End Web Dev Nanodegree; bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
