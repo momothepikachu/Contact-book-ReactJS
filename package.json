@@ -2,7 +2,7 @@
   "name": "contacts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://momothepikachu.github.io/ReactJS-Contacts",
+  "homepage": "https://momothepikachu.github.io/Contact-book-ReactJS",
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
     "form-serialize": "^0.7.2",
