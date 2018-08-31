@@ -7,7 +7,7 @@ const api = process.env.REACT_APP_CONTACTS_API_URL || 'http://localhost:5001'
   'Authorization': token
 }
  export const getAll = () =>
-  fetch(`${api}/contacts`, { headers })
+  fetch('https://api.myjson.com/bins/oaqzw')
     .then(res => res.json())
     .then(data => data.contacts)
  export const remove = (contact) =>
