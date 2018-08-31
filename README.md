@@ -1,5 +1,7 @@
  ## Contacts with React.js
 
+A React app that allows you to search, filter, delete and add new contact cards.
+
  - Used React to create and render Contact Cards
  - Converted manual element creation to JSX, used create-react-app to scaffold this project
  - Passed data into components, created functional components
